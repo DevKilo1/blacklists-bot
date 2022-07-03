@@ -1,0 +1,7 @@
+{
+    "token": "TOKENHERE",
+    "slashCommands": true,
+    "prefix": ".",
+    "mongoUri": "URI_HERE",
+    "inviteUrl": "BOT_INVITE_LINK_HERE"
+}
